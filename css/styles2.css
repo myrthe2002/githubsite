@@ -1,0 +1,8 @@
+.song {
+	height: 175px;
+}
+#achtergrond {
+	background-image: url("../images/4.jpg");
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+}
